@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carlos Ferrin | Blog</title>
+    <link>/blog/authors/carlos-ferrin/</link>
+      <atom:link href="/blog/authors/carlos-ferrin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carlos Ferrin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Esteban Correa `2019`</copyright><lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/blog/img/avatar.jpeg</url>
+      <title>Carlos Ferrin</title>
+      <link>/blog/authors/carlos-ferrin/</link>
+    </image>
+    
+    <item>
+      <title>ViLimbs: Improving Phantom Limb Treatment Through Multisensory Feedback</title>
+      <link>/blog/publication/vilimbs/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/blog/publication/vilimbs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

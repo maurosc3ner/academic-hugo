@@ -5,7 +5,7 @@
     <link>/blog/authors/</link>
       <atom:link href="/blog/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Esteban Correa `2019`</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Esteban Correa `2019`</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/blog/img/avatar.jpeg</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/blog/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       <guid>/blog/authors/admin/</guid>
       <description>&lt;!DOCTYPE html&gt;
 
@@ -240,6 +240,46 @@ $(document).ready(function () {
 &lt;/body&gt;
 &lt;/html&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Robert Ford</title>
+      <link>/blog/authors/robert-ford/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/blog/authors/robert-ford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andres M. Hernandez</title>
+      <link>/blog/authors/andres-m.-hernandez/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/blog/authors/andres-m.-hernandez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Carlos Ferrin</title>
+      <link>/blog/authors/carlos-ferrin/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/blog/authors/carlos-ferrin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Esteban Correa-Agudelo</title>
+      <link>/blog/authors/esteban-correa-agudelo/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/blog/authors/esteban-correa-agudelo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan D. Gomez</title>
+      <link>/blog/authors/juan-d.-gomez/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/blog/authors/juan-d.-gomez/</guid>
+      <description></description>
     </item>
     
   </channel>

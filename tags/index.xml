@@ -5,12 +5,20 @@
     <link>/blog/tags/</link>
       <atom:link href="/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Esteban Correa `2019`</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Esteban Correa `2019`</copyright><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/blog/img/avatar.jpeg</url>
       <title>Tags</title>
       <link>/blog/tags/</link>
     </image>
+    
+    <item>
+      <title>Source Themes</title>
+      <link>/blog/tags/source-themes/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/blog/tags/source-themes/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

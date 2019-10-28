@@ -3,16 +3,104 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2019-10-27T22:49:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post/hello-world/</loc>
+    <lastmod>2019-10-27T22:49:25-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/post/</loc>
+    <lastmod>2019-10-27T22:49:25-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/authors/admin/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/blog/authors/</loc>
+    <loc>/blog/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>/blog/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/authors/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/publication_types/2/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/publication/journal-article/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/authors/robert-ford/</loc>
+    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/publication_types/1/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/authors/andres-m.-hernandez/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/authors/carlos-ferrin/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/authors/esteban-correa-agudelo/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/authors/juan-d.-gomez/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/publication/vilimbs/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -20,23 +108,7 @@
   </url>
   
   <url>
-    <loc>/blog/post/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/publication/</loc>
-  </url>
-  
-  <url>
     <loc>/blog/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>/blog/tags/</loc>
   </url>
   
 </urlset>
