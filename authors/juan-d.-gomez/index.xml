@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan D. Gomez | Blog</title>
+    <link>/authors/juan-d.-gomez/</link>
+      <atom:link href="/authors/juan-d.-gomez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan D. Gomez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Esteban Correa `2019`</copyright><lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Juan D. Gomez</title>
+      <link>/authors/juan-d.-gomez/</link>
+    </image>
+    
+    <item>
+      <title>ViLimbs: Improving Phantom Limb Treatment Through Multisensory Feedback</title>
+      <link>/publication/vilimbs/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/vilimbs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
