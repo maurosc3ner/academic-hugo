@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James D. Watson | Blog</title>
-    <link>/authors/james-d.-watson/</link>
-      <atom:link href="/authors/james-d.-watson/index.xml" rel="self" type="application/rss+xml" />
+    <link>/blog/authors/james-d.-watson/</link>
+      <atom:link href="/blog/authors/james-d.-watson/index.xml" rel="self" type="application/rss+xml" />
     <description>James D. Watson</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Esteban Correa `2019`</copyright><lastBuildDate>Mon, 01 Apr 1968 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/blog/img/icon-192.png</url>
       <title>James D. Watson</title>
-      <link>/authors/james-d.-watson/</link>
+      <link>/blog/authors/james-d.-watson/</link>
     </image>
     
     <item>
       <title>The Double Helix</title>
-      <link>/book/thedoublehelix/</link>
+      <link>/blog/book/thedoublehelix/</link>
       <pubDate>Mon, 01 Apr 1968 00:00:00 +0000</pubDate>
-      <guid>/book/thedoublehelix/</guid>
+      <guid>/blog/book/thedoublehelix/</guid>
       <description></description>
     </item>
     

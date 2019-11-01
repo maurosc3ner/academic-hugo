@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andres M. Hernandez | Blog</title>
-    <link>/authors/andres-m.-hernandez/</link>
-      <atom:link href="/authors/andres-m.-hernandez/index.xml" rel="self" type="application/rss+xml" />
+    <link>/blog/authors/andres-m.-hernandez/</link>
+      <atom:link href="/blog/authors/andres-m.-hernandez/index.xml" rel="self" type="application/rss+xml" />
     <description>Andres M. Hernandez</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Esteban Correa `2019`</copyright><lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/blog/img/icon-192.png</url>
       <title>Andres M. Hernandez</title>
-      <link>/authors/andres-m.-hernandez/</link>
+      <link>/blog/authors/andres-m.-hernandez/</link>
     </image>
     
     <item>
       <title>ViLimbs: Improving Phantom Limb Treatment Through Multisensory Feedback</title>
-      <link>/publication/vilimbs/</link>
+      <link>/blog/publication/vilimbs/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/vilimbs/</guid>
+      <guid>/blog/publication/vilimbs/</guid>
       <description></description>
     </item>
     
