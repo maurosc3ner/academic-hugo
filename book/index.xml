@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Books | Blog</title>
+    <link>/book/</link>
+      <atom:link href="/book/index.xml" rel="self" type="application/rss+xml" />
+    <description>Books</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Esteban Correa `2019`</copyright><lastBuildDate>Wed, 01 Apr 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Books</title>
+      <link>/book/</link>
+    </image>
+    
+    <item>
+      <title>The lady tasting tea</title>
+      <link>/book/theladytastingtea/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>/book/theladytastingtea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiology 5th Edition</title>
+      <link>/book/epidemiologybygordis/</link>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
+      <guid>/book/epidemiologybygordis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Double Helix</title>
+      <link>/book/thedoublehelix/</link>
+      <pubDate>Mon, 01 Apr 1968 00:00:00 +0000</pubDate>
+      <guid>/book/thedoublehelix/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

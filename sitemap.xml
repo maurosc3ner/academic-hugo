@@ -88,6 +88,11 @@
   </url>
   
   <url>
+    <loc>/publication_types/5/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/andres-m.-hernandez/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -98,7 +103,17 @@
   </url>
   
   <url>
+    <loc>/book/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/authors/carlos-ferrin/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-salsburg/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,8 +138,33 @@
   </url>
   
   <url>
+    <loc>/book/theladytastingtea/</loc>
+    <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication/vilimbs/</loc>
     <lastmod>2015-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/book/epidemiologybygordis/</loc>
+    <lastmod>2013-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/leon-gordis/</loc>
+    <lastmod>2013-12-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/james-d.-watson/</loc>
+    <lastmod>1968-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/book/thedoublehelix/</loc>
+    <lastmod>1968-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
