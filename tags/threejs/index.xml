@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>threejs | Blog</title>
+    <link>/blog/tags/threejs/</link>
+      <atom:link href="/blog/tags/threejs/index.xml" rel="self" type="application/rss+xml" />
+    <description>threejs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Esteban Correa `2019`</copyright><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/blog/img/icon-192.png</url>
+      <title>threejs</title>
+      <link>/blog/tags/threejs/</link>
+    </image>
+    
+    <item>
+      <title>Web-based EEG Viewer and Tooler for Alzheimer’s Records</title>
+      <link>/blog/project/unal-eeg-project/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/blog/project/unal-eeg-project/</guid>
+      <description>&lt;p&gt;This project has been founded by National Department of Science - Colciencias through the grant #744  &amp;ldquo;CONVOCATORIA PARA PROYECTOS DE CIENCIA, TECNOLOGÍA E INNOVACIÓN EN SALUD 2016&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

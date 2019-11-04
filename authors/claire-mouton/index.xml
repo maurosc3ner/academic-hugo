@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claire Mouton | Blog</title>
+    <link>/blog/authors/claire-mouton/</link>
+      <atom:link href="/blog/authors/claire-mouton/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claire Mouton</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Esteban Correa `2019`</copyright><lastBuildDate>Tue, 01 Apr 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/blog/img/icon-192.png</url>
+      <title>Claire Mouton</title>
+      <link>/blog/authors/claire-mouton/</link>
+    </image>
+    
+    <item>
+      <title>A Modular Workflow Architecture for Coronary Centerline Extraction in Computed Tomography Angiography Data</title>
+      <link>/blog/publication/creacoro/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/blog/publication/creacoro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

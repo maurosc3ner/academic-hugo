@@ -76,5 +76,45 @@
       <description></description>
     </item>
     
+    <item>
+      <title>angular 7</title>
+      <link>/blog/tags/angular-7/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/blog/tags/angular-7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>d3js</title>
+      <link>/blog/tags/d3js/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/blog/tags/d3js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eeg</title>
+      <link>/blog/tags/eeg/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/blog/tags/eeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>medical imaging</title>
+      <link>/blog/tags/medical-imaging/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/blog/tags/medical-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>threejs</title>
+      <link>/blog/tags/threejs/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/blog/tags/threejs/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
