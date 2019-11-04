@@ -5,7 +5,7 @@
     <link>/blog/tags/</link>
       <atom:link href="/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Esteban Correa `2019`</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Esteban Correa `2019`</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/blog/img/icon-192.png</url>
       <title>Tags</title>
@@ -13,18 +13,58 @@
     </image>
     
     <item>
-      <title>Deep Learning</title>
-      <link>/blog/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/blog/tags/deep-learning/</guid>
+      <title>Angola</title>
+      <link>/blog/tags/angola/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/blog/tags/angola/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/blog/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/blog/tags/demo/</guid>
+      <title>HIV</title>
+      <link>/blog/tags/hiv/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/blog/tags/hiv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Malawi</title>
+      <link>/blog/tags/malawi/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/blog/tags/malawi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>migration</title>
+      <link>/blog/tags/migration/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/blog/tags/migration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>South Africa</title>
+      <link>/blog/tags/south-africa/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/blog/tags/south-africa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zambia</title>
+      <link>/blog/tags/zambia/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/blog/tags/zambia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zimbabwe</title>
+      <link>/blog/tags/zimbabwe/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/blog/tags/zimbabwe/</guid>
       <description></description>
     </item>
     

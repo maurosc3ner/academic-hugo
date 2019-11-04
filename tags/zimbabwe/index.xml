@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Blog</title>
-    <link>/blog/project/</link>
-      <atom:link href="/blog/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>Zimbabwe | Blog</title>
+    <link>/blog/tags/zimbabwe/</link>
+      <atom:link href="/blog/tags/zimbabwe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zimbabwe</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Esteban Correa `2019`</copyright><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/blog/img/icon-192.png</url>
-      <title>Projects</title>
-      <link>/blog/project/</link>
+      <title>Zimbabwe</title>
+      <link>/blog/tags/zimbabwe/</link>
     </image>
     
     <item>
